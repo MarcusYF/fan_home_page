@@ -15,7 +15,7 @@ abstract: "The study of strategic or adversarial manipulation of testing data to
   classifiers is always upper bounded by its standard VC-dimension. This
   characterization also strictly generalizes the AVC bound for linear
   classifiers (Cullina et al., 2018)."
-slides: example
+slides: svc
 url_pdf: ""
 publication_types:
   - "1"
@@ -47,7 +47,7 @@ doi: ""
 featured: true
 tags: []
 projects:
-  - example
+  - svc
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: center

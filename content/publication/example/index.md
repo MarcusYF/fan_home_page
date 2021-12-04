@@ -28,7 +28,8 @@ author_notes:
   - Equal contribution
   - Equal contribution
   - Equal contribution
-publication: International Conference on Machine Learning, 2021 (long oral, 3%)
+publication: International Conference on Machine Learning, 2021 (<font
+  color=red>long oral, 3%</font>)
 summary: >-
   We establish a unified framework for strategic classification problems and
   introduce the notion of strategic VC-dimension (SVC) to capture its

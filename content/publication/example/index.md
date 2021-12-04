@@ -50,8 +50,8 @@ projects:
   - example
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
-  focal_point: ""
-  preview_only: false
+  focal_point: center
+  preview_only: true
   filename: icml21-svc-poster_00_00.jpg
 date: 2021-12-04T21:56:14.075Z
 url_slides: ""

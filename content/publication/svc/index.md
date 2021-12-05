@@ -16,7 +16,7 @@ abstract: "The study of strategic or adversarial manipulation of testing data to
   characterization also strictly generalizes the AVC bound for linear
   classifiers (Cullina et al., 2018)."
 slides: svc
-url_pdf: "https://arxiv.org/abs/2012.03310"
+url_pdf: https://arxiv.org/abs/2012.03310
 publication_types:
   - "1"
 authors:
@@ -40,8 +40,8 @@ summary: >-
 url_dataset: ""
 url_project: ""
 publication_short: In *ICML*, 2021 (long oral, 3%)
-url_source: "https://arxiv.org/abs/2012.03310"
-url_video: "https://icml.cc/virtual/2021/poster/9137"
+url_source: https://arxiv.org/abs/2012.03310
+url_video: https://icml.cc/virtual/2021/poster/9137
 title: PAC-Learning for Strategic Classification
 doi: ""
 featured: true
@@ -54,18 +54,8 @@ image:
   preview_only: true
   filename: icml21-svc-poster_00_00.jpg
 date: 2021-12-04T21:56:14.075Z
-url_slides: "https://icml.cc/virtual/2021/poster/9137"
+url_slides: https://icml.cc/virtual/2021/poster/9137
 publishDate: 2017-01-01T00:00:00.000Z
-url_poster: "https://icml.cc/virtual/2021/poster/9137"
+url_poster: https://icml.cc/virtual/2021/poster/9137
 url_code: ""
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

@@ -32,7 +32,7 @@ summary: "We propose a new problem setting to study the sequential interactions
   from the realized rewards."
 url_dataset: ""
 url_project: ""
-publication_short: In *AAAI*, 2022 (acceptance rate 15%)
+publication_short: To appear in *AAAI*, 2022 (acceptance rate 15%)
 url_source: https://arxiv.org/abs/2110.03068
 url_video: ""
 title: Learning the Optimal Recommendation from Explorative Users

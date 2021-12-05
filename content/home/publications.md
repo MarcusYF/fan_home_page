@@ -38,5 +38,15 @@ design:
 ---
 
 {{% callout note %}}
+* indicates equal author contribution.
+### 2022
+
+- [AAAI’22 (to appear)] Learning the Optimal Recommendation from Explorative Users, **Fan Yao**, Chuanhao Li, Denis Nekipelov, Hongning Wang, Haifeng Xu.
+[paper](https://arxiv.org/abs/2110.03068)
+
+### 2021
+
+- [ICML'21] PAC-Learning for Strategic Classification, Ravi Sundaram\*, Anil Vullikanti\*, Haifeng Xu\*, **Fan Yao\***, (<font color='red'>long oral 3%</font>) [paper](https://arxiv.org/abs/2012.03310)
+
 Quickly discover relevant content by [filtering publications](./publication/).
 {{% /callout %}}

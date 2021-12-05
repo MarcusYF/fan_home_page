@@ -1,18 +1,5 @@
 ---
-abstract: ""
-slides: bair
-url_pdf: https://arxiv.org/abs/2110.03068
-publication_types:
-  - "1"
-authors:
-  - Fan Yao
-  - Chuanhao Li
-  - Denis Nekepalov
-  - Hongning Wang
-  - Haifeng Xu
-author_notes: []
-publication: AAAI'22
-summary: "We propose a new problem setting to study the sequential interactions
+abstract: "We propose a new problem setting to study the sequential interactions
   between a recommender system and a user. Instead of assuming the user is
   omniscient, static, and explicit, as the classical practice does, we sketch a
   more realistic user behavior model, under which the user: 1) rejects
@@ -30,6 +17,30 @@ summary: "We propose a new problem setting to study the sequential interactions
   illustrates the inevitable cost the system has to pay when it learns from an
   explorative user's revealed preferences on its recommendations rather than
   from the realized rewards."
+slides: bair
+url_pdf: https://arxiv.org/abs/2110.03068
+publication_types:
+  - "1"
+authors:
+  - Fan Yao
+  - Chuanhao Li
+  - Denis Nekepalov
+  - Hongning Wang
+  - Haifeng Xu
+author_notes: []
+publication: AAAI'22
+summary: "We propose a new perspective in studying the sequential interactions
+  between a recommender system and a user. Instead of assuming the user is
+  omniscient, static, and explicit, as the classical practice does, we sketch a
+  more realistic user behavior model, under which the user: 1) rejects
+  recommendations if they are clearly worse than others; 2) updates her utility
+  estimation based on rewards from her accepted recommendations; 3) withholds
+  realized rewards from the system. We formulate the interactions between the
+  system and such an explorative user in a $K$-armed bandit framework and study
+  the problem of learning the optimal recommendation on the system side. Our
+  result illustrates the inevitable price the system has to pay when it learns
+  from an explorative user's revealed preferences on its recommendations rather
+  than from the realized rewards."
 url_dataset: ""
 url_project: ""
 publication_short: To appear in *AAAI*, 2022 (acceptance rate 15%)
@@ -52,13 +63,3 @@ publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

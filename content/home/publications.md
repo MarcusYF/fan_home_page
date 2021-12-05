@@ -1,6 +1,6 @@
 ---
 widget: pages
-widget_id: RECENT-POSTS
+widget_id: Recent-Publications
 headless: true
 weight: 90
 title: Recent Publications
@@ -19,7 +19,9 @@ content:
 design:
   view: 4
 ---
-{{% callout note %}}* indicates equal author contribution.
+{{% callout note %}}
+
+\* indicates equal author contribution.
 
 ### 2022
 

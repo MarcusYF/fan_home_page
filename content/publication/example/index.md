@@ -40,8 +40,8 @@ summary: >-
 url_dataset: ""
 url_project: ""
 publication_short: In *ICML*, 2021 (long oral, 3%)
-url_source: ""
-url_video: ""
+url_source: "https://arxiv.org/abs/2012.03310"
+url_video: "https://icml.cc/virtual/2021/poster/9137"
 title: PAC-Learning for Strategic Classification
 doi: ""
 featured: true
@@ -54,9 +54,9 @@ image:
   preview_only: true
   filename: icml21-svc-poster_00_00.jpg
 date: 2021-12-04T21:56:14.075Z
-url_slides: ""
+url_slides: "https://icml.cc/virtual/2021/session/12046"
 publishDate: 2017-01-01T00:00:00.000Z
-url_poster: ""
+url_poster: "https://icml.cc/virtual/2021/poster/9137"
 url_code: ""
 ---
 

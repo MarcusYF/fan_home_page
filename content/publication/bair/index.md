@@ -1,62 +1,39 @@
 ---
-abstract: "The study of strategic or adversarial manipulation of testing data to
-  fool a classifier has attracted much recent attention. Most previous works
-  have focused on two extreme situations where any testing data point either is
-  completely adversarial or always equally prefers the positive label. In this
-  paper, we generalize both of these through a unified framework for strategic
-  classification and introduce the notion of strategic VC-dimension (SVC) to
-  capture the PAC-learnability in our general strategic setup. SVC provably
-  generalizes the recent concept of adversarial VC-dimension (AVC) introduced by
-  Cullina et al. (2018). We instantiate our framework for the fundamental
-  strategic linear classification problem. We fully characterize: (1) the
-  statistical learnability of linear classifiers by pinning down its SVC; (2)
-  it's computational tractability by pinning down the complexity of the
-  empirical risk minimization problem. Interestingly, the SVC of linear
-  classifiers is always upper bounded by its standard VC-dimension. This
-  characterization also strictly generalizes the AVC bound for linear
-  classifiers (Cullina et al., 2018)."
-slides: svc
-url_pdf: ""
+abstract: ""
+slides: bair
+url_pdf: "https://arxiv.org/abs/2110.03068"
 publication_types:
   - "1"
 authors:
-  - Ravi Sundaram
-  - Anil Vullikanti
-  - Haifeng Xu
   - Fan Yao
+  - Chuanhao Li
+  - Denis Nekepalov
+  - Hongning Wang
+  - Haifeng Xu
 author_notes:
-  - Equal contribution
-  - Equal contribution
-  - Equal contribution
-  - Equal contribution
-publication: International Conference on Machine Learning, 2021 (<font
-  color=red>long oral, 3%</font>)
+publication: AAAI'22 
 summary: >-
-  We establish a unified framework for strategic classification problems and
-  introduce the notion of strategic VC-dimension (SVC) to capture its
-  PAC-learnability. We instantiate our framework for the fundamental
-
-  strategic linear classification problem and fully characterize: (1) the statistical learnability of linear classifiers by pinning down its SVC; (2) it's computational tractability by pinning down the complexity of the empirical risk minimization problem. 
+  We propose a new problem setting to study the sequential interactions between a recommender system and a user. Instead of assuming the user is omniscient, static, and explicit, as the classical practice does, we sketch a more realistic user behavior model, under which the user: 1) rejects recommendations if they are clearly worse than others; 2) updates her utility estimation based on rewards from her accepted recommendations; 3) withholds realized rewards from the system. We formulate the interactions between the system and such an explorative user in a $K$-armed bandit framework and study the problem of learning the optimal recommendation on the system side. We show that efficient system learning is still possible but is more difficult. In particular, the system can identify the best arm with probability at least $1−\delta$ within $O(1/\delta)$ interactions, and we prove this is tight. Our finding contrasts the result for the problem of best arm identification with fixed confidence, in which the best arm can be identified with probability $1−\delta$ within $O(\log(1/\delta))$ interactions. This gap illustrates the inevitable cost the system has to pay when it learns from an explorative user's revealed preferences on its recommendations rather than from the realized rewards.
 url_dataset: ""
 url_project: ""
-publication_short: In *ICML*, 2021 (long oral, 3%)
-url_source: "https://arxiv.org/abs/2012.03310"
-url_video: "https://icml.cc/virtual/2021/poster/9137"
-title: PAC-Learning for Strategic Classification
+publication_short: In *AAAI*, 2022 (acceptance rate 15%)
+url_source: "https://arxiv.org/abs/2110.03068"
+url_video: ""
+title: Learning the Optimal Recommendation from Explorative Users
 doi: ""
 featured: true
 tags: []
 projects:
-  - svc
+  - bair
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: center
   preview_only: true
   filename: icml21-svc-poster_00_00.jpg
 date: 2021-12-04T21:56:14.075Z
-url_slides: "https://icml.cc/virtual/2021/session/12046"
+url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
-url_poster: "https://icml.cc/virtual/2021/poster/9137"
+url_poster: ""
 url_code: ""
 ---
 

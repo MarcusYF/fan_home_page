@@ -11,7 +11,7 @@ experience:
     date_end: 
     description: Ph.D. student in CS department
   - title: Research Intern
-    company: ByteDance (TikTok) AML Lab, (Manager: Dr. Chong Wang)
+    company: ByteDance (TikTok) AML Lab
     company_url: "https://chongw.github.io/"
     company_logo: tiktok_icon
     location: Seattle, US

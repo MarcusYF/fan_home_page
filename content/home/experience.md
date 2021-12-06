@@ -9,10 +9,7 @@ experience:
     location: Seattle, US
     date_start: 2021-06
     date_end: 2021-08
-    description: |-2
-        Responsibilities include:
-        
-        * Enhance the recommendation diversity and mitigate the echo chamber effect via collaborative Thompson sampling approach and gradient-based Determinantal Point Processes.
+    description: Enhance the recommendation diversity and mitigate the echo chamber effect via collaborative Thompson sampling approach and gradient-based Determinantal Point Processes.
   - title: Algorithm Engineer
     company: Alibaba Group, Taobao Recommendation Team
     company_url: "www.alibaba.com"

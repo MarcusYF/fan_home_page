@@ -19,7 +19,7 @@ experience:
     date_end: "2021-08-31"
     description: |2-
         
-        * Manager: Dr. [Chong Wang](https://chongw.github.io/), Dr. Taiqing Wang
+        * Manager: Dr. [Chong Wang](https://chongw.github.io/), Dr. [Taiqing Wang](https://www.linkedin.com/in/taiqing-wang-ba462a48)
         * DeployingEnhance the recommendation diversity and mitigate the echo chamber effect via collaborative Thompson sampling approach and gradient-based Determinantal Point Processes.
   - title: Algorithm Engineer
     company: Alibaba Group, Taobao Recommendation Team

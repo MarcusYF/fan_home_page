@@ -5,15 +5,15 @@ experience:
   - title: Research Assistant
     company: University of Virginia
     company_url: "https://engineering.virginia.edu/"
-    company_logo: org-gc
+    company_logo: uva
     location: Charlottesville, US
     date_start: "2019-09-01"
     date_end: 
     description: Ph.D. student in CS department
   - title: Research Intern
-    company: ByteDance (TikTok) AML Lab
-    company_url: "https://www.bytedance.com/en/"
-    company_logo: org-gc
+    company: ByteDance (TikTok) AML Lab, Manager: Dr. Chong Wang
+    company_url: "https://chongw.github.io/"
+    company_logo: tiktok_icon
     location: Seattle, US
     date_start: "2021-06-01"
     date_end: "2021-08-31"

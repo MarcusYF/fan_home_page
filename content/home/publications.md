@@ -7,7 +7,7 @@ title: Recent Publications
 subtitle: ""
 content:
   page_type: publication
-  count: 5
+  count: 1
   offset: 0
   order: desc
   filters:
@@ -21,11 +21,11 @@ design:
 ---
 {{% callout note %}}
 
-\* indicates equal author contribution.
+<!--\* indicates equal author contribution.
 
 <font size="5"> 2022</font>
 
-* \[AAAI’22 (to appear)] *Learning the Optimal Recommendation from Explorative Users*, **Fan Yao**, Chuanhao Li, Denis Nekipelov, Hongning Wang, Haifeng Xu.
+* \[AAAI'22 (to appear)] *Learning the Optimal Recommendation from Explorative Users*, **Fan Yao**, Chuanhao Li, Denis Nekipelov, Hongning Wang, Haifeng Xu.
   [paper](https://arxiv.org/abs/2110.03068)
 
 <font size="5"> 2021</font>
@@ -37,7 +37,7 @@ design:
 <font size="5"> 2020 and before</font>
 
 * \[MASS'20] *Deep Learning-Based Prediction Towards Designing A Smart Building Assistant System*, Ankur Sarker, **Fan Yao**, Haiying Shen, Huiying Zhao, Haoran Zhu, Haroon Lone, Laura Barnes, Brad Campbell, Mitchel Rosen. [paper](https://ieeexplore.ieee.org/abstract/document/9356025)
-* \[SCIENCE CHINA Physics'17] *Mean-field study of a propagation-turnover lattice model for the dynamics of histone marking*, **Fan Yao**, Fangting Li, Tiejun Li. [paper](https://link.springer.com/article/10.1007/s11433-016-0359-1)
+* \[SCIENCE CHINA Physics'17] *Mean-field study of a propagation-turnover lattice model for the dynamics of histone marking*, **Fan Yao**, Fangting Li, Tiejun Li. [paper](https://link.springer.com/article/10.1007/s11433-016-0359-1)-->
 
 Quickly discover relevant content by [filtering publications](./publication/).
 

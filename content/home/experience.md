@@ -2,7 +2,7 @@
 widget: experience
 date_format: Jan 2006
 experience:
-  - title: Research Assistant
+  - title: Graduate Research Assistant
     company: University of Virginia
     company_url: "https://engineering.virginia.edu/"
     company_logo: uva

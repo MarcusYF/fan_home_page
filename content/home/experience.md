@@ -4,7 +4,7 @@ date_format: Jan 2006
 experience:
   - title: Research Intern
     company: ByteDance (TikTok) AML Lab
-    company_url: ""
+    company_url: "https://www.bytedance.com/en/"
     company_logo: org-gc
     location: Seattle, US
     date_start: 2021-06
@@ -17,7 +17,7 @@ experience:
     location: Hangzhou, China
     date_start: 2017-07
     date_end: 2019-08
-    description: Design and maintain content recommendation system for Taobao main page, focusing on deep-learning based match/ranking solution.
+    description: Design and maintain content recommendation system for Taobao main page, focusing on deep-learning based match and ranking solution.
 widget_id: Experience
 headless: true
 weight: 80

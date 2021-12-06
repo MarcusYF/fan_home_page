@@ -2,27 +2,25 @@
 widget: experience
 date_format: Jan 2006
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Research Intern
+    company: ByteDance (TikTok) AML Lab
     company_url: ""
     company_logo: org-gc
-    location: California
-    date_start: 2021-01-01
-    date_end: ""
+    location: Seattle, US
+    date_start: 2021-06
+    date_end: 2021-08
     description: |-2
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ""
+        * Enhance the recommendation diversity and mitigate the echo chamber effect via collaborative Thompson sampling approach and gradient-based Determinantal Point Processes.
+  - title: Algorithm Engineer
+    company: Alibaba Group, Taobao Recommendation Team
+    company_url: "www.alibaba.com"
     company_logo: org-x
-    location: California
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Hangzhou, China
+    date_start: 2017-07
+    date_end: 2019-08
+    description: Design and maintain content recommendation system for Taobao main page, focusing on deep-learning based match/ranking solution.
 widget_id: Experience
 headless: true
 weight: 80

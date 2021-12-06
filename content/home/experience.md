@@ -17,7 +17,10 @@ experience:
     location: Seattle, US
     date_start: "2021-06-01"
     date_end: "2021-08-31"
-    description: Enhance the recommendation diversity and mitigate the echo chamber effect via collaborative Thompson sampling approach and gradient-based Determinantal Point Processes.
+    description: |2-
+        
+        * Manager: Dr. [Chong Wang](https://chongw.github.io/), Dr. Taiqing Wang
+        * DeployingEnhance the recommendation diversity and mitigate the echo chamber effect via collaborative Thompson sampling approach and gradient-based Determinantal Point Processes.
   - title: Algorithm Engineer
     company: Alibaba Group, Taobao Recommendation Team
     company_url: "www.alibaba.com"

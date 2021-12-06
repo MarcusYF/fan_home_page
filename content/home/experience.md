@@ -21,7 +21,7 @@ experience:
   - title: Algorithm Engineer
     company: Alibaba Group, Taobao Recommendation Team
     company_url: "www.alibaba.com"
-    company_logo: org-x
+    company_logo: alibaba_icon
     location: Hangzhou, China
     date_start: "2017-07-01"
     date_end: "2019-08-31"

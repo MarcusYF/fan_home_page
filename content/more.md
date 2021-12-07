@@ -25,12 +25,17 @@ design:
 
 ## Tennis
 
-- Reviewer duties: ICLR, 
+I'm a crazy tennis player 
 
 ## My Cats
 
+I raise two cats, Bonnie \& Clyde with my wife. 
 
-## Photos
+## Photography
+
+I like to unveil different corners on the earth and take photos. Here are some magnificient views I would like to share.
 
 [Tibet](https://www.yaofan29597.com/fun/photo/)
+
+[Lake Baikal](https://www.yaofan29597.com/fun/photo/)
 

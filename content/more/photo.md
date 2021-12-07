@@ -4,7 +4,7 @@ widget: pages
 headless: true
 weight: 30
 
-title: More about me
+title: My cats
 subtitle:
 
 content:
@@ -31,22 +31,3 @@ design:
 
 
 ## Cooker
-
-- Reviewer duties: ACL, ECCV Workshop on Adversarial Robustness in the Real World
-- (August) TA for [CS 6501/4501: Vision and Language](https://www.vicenteordonez.com/vislang/) this Fall
-- (Dec) I will be giving a talk on Property Inference Attacks at the 5th Microsoft Security Data Science Colloquium
-- (October) Co-President of [Animal Justice Advocates at UVa](http://sites.google.com/view/ajauva/). Look forward to helping our University transition to cruelty-free practices and alternatives!
-- (May) Leading weekly meetings for the [Adversarial Machine Learning Study Group](https://uvasrg.github.io/advml/) for this Summer, along with [Hannah Chen](https://hannahxchen.github.io/)
-- (Feb) Our lab had a [site visit](https://drive.google.com/file/d/1WnerHqeU13P9A53WC7-_-oPyid5kyx-a/view) from Penn State (Patrick's group) as part of a [CTML](https://ctml.psu.edu/people/) Summit
-
-## 2019
-
-- (Sep) I will be visiting Penn State from Sept 16-18 with my advisor and our research group for an NSF Site Visit  ([CTML Group](https://ctml.psu.edu/))
-- (Aug) I will be joining the University of Virginia as a PhD student in Computer Science under Professor [David Evans](http://www.cs.virginia.edu/~evans/) this month!
-- (Jul) After working for a delightful 13 months with an amazing set of colleagues, I left Microsoft IDC. They'll all be missed very much!
-- (Apr) I will be visiting the [Intelligent Cloud Conference](https://intelligentcloud.dk/) 2019 in Copenhagen, Denmark in the first week of April to give a talk on my team's work: Project Personality Chat.
-
-## 2018
-
-- (Nov) I will be at EMNLP, being held in Belgium, Germany in the first week of November.
-- (Oct) I will be visiting Microsoft Research, Redmond for the last two weeks of October. First time outside Asia!

@@ -25,11 +25,10 @@ design:
 
 ## Tennis Player
 
-- Reviewer duties: ICLR, CVPR
+- Reviewer duties: ICLR, [CVPR](https://www.yaofan29597.com/more/photo/)
 
 ## Cat Lover
 
 
 ## Cooker
 
-- a

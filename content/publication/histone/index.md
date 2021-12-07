@@ -16,12 +16,13 @@ url_project: ""
 publication_short: In *SCIENCE CHINA Physics*
 url_source: https://link.springer.com/article/10.1007/s11433-016-0359-1
 url_video: ""
-title: "Mean-field Study of a Propagation-turnover Lattice Model for the Dynamics of Histone Marking"
+title: Mean-field Study of a Propagation-turnover Lattice Model for the Dynamics
+  of Histone Marking
 doi: ""
 featured: false
 tags: []
 projects:
-  - bair
+  - histone
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: center

@@ -16,12 +16,13 @@ url_project: ""
 publication_short: In *arXiv*
 url_source: https://arxiv.org/pdf/2102.07210
 url_video: ""
-title: Reversible Action Design for Combinatorial Optimization with Reinforcement Learning
+title: Reversible Action Design for Combinatorial Optimization with
+  Reinforcement Learning
 doi: ""
 featured: false
 tags: []
 projects:
-  - bair
+  - rl4cop
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: center

@@ -16,15 +16,16 @@ publication: arXiv
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: In *arXiv*.
+publication_short: In *arXiv*
 url_source: https://arxiv.org/pdf/2111.05486
 url_video: ""
-title: "Multi-Agent Learning for Iterative Dominance Elimination: Formal Barriers and New Algorithms"
+title: "Multi-Agent Learning for Iterative Dominance Elimination: Formal
+  Barriers and New Algorithms"
 doi: ""
 featured: false
 tags: []
 projects:
-  - bair
+  - dirgame
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: center

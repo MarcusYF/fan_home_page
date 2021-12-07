@@ -4,7 +4,7 @@ widget: pages
 headless: true
 weight: 30
 
-title: My cats
+title: Tibet
 subtitle:
 
 content:
@@ -25,5 +25,9 @@ design:
 
 ## Namtso Lake
 
-![avatar](https://gopro.com/v/WyvQv7l5Pv1PP)
+![avatar](https://bkt-fig-65175.oss-us-east-1.aliyuncs.com/IMG_0267.JPG)
+
+## 布达拉宫的夜晚
+
+![po](https://bkt-fig-65175.oss-us-east-1.aliyuncs.com/IMG_8863.JPG)
 

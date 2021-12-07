@@ -9,14 +9,14 @@ authors:
   - Fangting Li
   - Tiejun Li
 author_notes:[]
-publication: Science China Physics, Mechanics & Astronomy 60, Article number: 028711 (2017)
+publication: Science China Physics, Mechanics & Astronomy
 summary: ""
 url_dataset: ""
 url_project: ""
 publication_short: In *SCIENCE CHINA Physics*.
 url_source: https://link.springer.com/article/10.1007/s11433-016-0359-1
 url_video: ""
-title: Mean-field Study of a Propagation-turnover Lattice Model for the Dynamics of Histone Marking
+title: "Mean-field Study of a Propagation-turnover Lattice Model for the Dynamics of Histone Marking"
 doi: ""
 featured: false
 tags: []

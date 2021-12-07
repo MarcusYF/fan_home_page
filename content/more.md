@@ -25,7 +25,7 @@ design:
 
 ## Tennis
 
-I'm a crazy tennis lover, and my level is about NTRP 3.5-4.0. I'm a member of the ABC tennis club in Charlottesville region and have always been practicing to horn my skills. Though I use the two-handed backhand, my favorite player is Roger Federer because I admire his swords-like forehand and enjoy finishing a point at the net. 
+I'm a crazy tennis lover, and my level is about [NTRP 4.0](https://activesupport.secure.force.com/usta/articles/en_US/Article/League-NTRP-Rating-Information). I'm a member of the ABC tennis club in Charlottesville region and have always been practicing to horn my skills. Though I use the two-handed backhand, my favorite player is Roger Federer because I admire his swords-like forehand and enjoy finishing a point at the net. 
 
 ## My Cats
 

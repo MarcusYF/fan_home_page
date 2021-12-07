@@ -30,7 +30,7 @@ image:
   focal_point: center
   preview_only: true
   filename: ""
-date: 2021-12-04T21:56:14.075Z
+date: 2021-12-06T21:56:14.075Z
 url_slides: ""
 publishDate: 2021-11-01T00:00:00.000Z
 url_poster: ""

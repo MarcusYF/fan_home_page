@@ -14,7 +14,7 @@ authors:
   - Laura Barnes
   - Brad Campbell
   - Mitchel Rosen
-author_notes:[]
+author_notes: []
 publication: IEEE MASS 2020
 summary: ""
 url_dataset: ""

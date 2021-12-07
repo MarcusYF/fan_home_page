@@ -8,7 +8,7 @@ authors:
   - admin
   - Fangting Li
   - Tiejun Li
-author_notes:[]
+author_notes: []
 publication: Science China Physics, Mechanics & Astronomy
 summary: ""
 url_dataset: ""

@@ -23,11 +23,7 @@ design:
   columns: "1"
 ---
 
-## Tennis Player
+## Namtso Lake
 
-- Reviewer duties: ICLR, CVPR
+![avatar](https://gopro.com/v/WyvQv7l5Pv1PP)
 
-## Cat Lover
-
-
-## Cooker

@@ -1,5 +1,6 @@
 ---
 title: Fan Yao
+superuser: true
 role: Ph.D. student at CS@UVa
 bio: A theory-obsessed pragmatist, a crazy tennis player, and an underachieving
   daydreamer.
@@ -14,7 +15,7 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/FanYao55671545
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=Vb4MZPMAAAAJ&hl=en-US
@@ -38,10 +39,9 @@ education:
     - course: BSc. in Computational Mathematics
       institution: Peking University
       year: 2009
-email: ""
-superuser: true
+email: "fy4bc[at]virginia.edu"
 highlight_name: true
 ---
-I am a Ph.D. student in CS at [University of Virginia](https://engineering.virginia.edu/). My academic advisors are Prof. [Hongning Wang](http://www.cs.virginia.edu/~hw5x/) and Prof. [Haifeng Xu](https://www.haifeng-xu.com/). Prior to joining UVa, I worked as an algorithm engineer in [Alibaba Group](www.alibaba.com), building recommender systems for [Taobao](https://en.wikipedia.org/wiki/Taobao), the world's largest eCommerce platform. Before that, I obtained my Bachelor's and Master's degrees in computational mathematics from [Peking University](https://english.pku.edu.cn). My research interests include online learning, multi-agent learning, algorithmic game theory, and their applications in recommendation systems and beyond.
+I am a third year Ph.D. student in CS at [University of Virginia](https://engineering.virginia.edu/). My academic advisors are Prof. [Hongning Wang](http://www.cs.virginia.edu/~hw5x/) and Prof. [Haifeng Xu](https://www.haifeng-xu.com/). Prior to joining UVa, I worked as an algorithm engineer in [Alibaba Group](www.alibaba.com), building recommender systems for [Taobao](https://en.wikipedia.org/wiki/Taobao), the world's largest eCommerce platform. Before that, I obtained my Bachelor's and Master's degrees in computational mathematics from [Peking University](https://english.pku.edu.cn). My research interests include online learning, multi-agent learning, algorithmic game theory, and their applications in recommendation systems and beyond.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

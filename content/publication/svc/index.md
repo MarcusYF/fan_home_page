@@ -23,7 +23,7 @@ authors:
   - Ravi Sundaram
   - Anil Vullikanti
   - Haifeng Xu
-  - Fan Yao
+  - admin
 author_notes:
   - Equal contribution
   - Equal contribution

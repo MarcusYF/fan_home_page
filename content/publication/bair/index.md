@@ -22,7 +22,7 @@ url_pdf: https://arxiv.org/abs/2110.03068
 publication_types:
   - "1"
 authors:
-  - Fan Yao
+  - admin
   - Chuanhao Li
   - Denis Nekepalov
   - Hongning Wang

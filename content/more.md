@@ -25,7 +25,7 @@ design:
 
 ## Tennis Player
 
-- Reviewer duties: ICLR, [CVPR](https://www.yaofan29597.com/more/photo/)
+- Reviewer duties: ICLR, [CVPR](https://www.yaofan29597.com/fun/photo/)
 
 ## Cat Lover
 

@@ -8,15 +8,12 @@ authors:
   - admin
   - Renqin Cai
   - Hongning Wang
-author_notes:
-  - Equal contribution
-  - Equal contribution
-  - Equal contribution
+author_notes: []
 publication: arXiv
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: In *arXiv*.
+publication_short: In *arXiv*
 url_source: https://arxiv.org/pdf/2102.07210
 url_video: ""
 title: Reversible Action Design for Combinatorial Optimization with Reinforcement Learning

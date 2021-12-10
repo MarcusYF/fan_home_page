@@ -16,7 +16,7 @@ publication: arXiv
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: In *arXiv*
+publication_short: To appear in *AAAI-RLG*, 2022
 url_source: https://arxiv.org/pdf/2111.05486
 url_video: ""
 title: "Multi-Agent Learning for Iterative Dominance Elimination: Formal

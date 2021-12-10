@@ -29,7 +29,7 @@ I'm a crazy tennis lover, and my level is about [NTRP 4.0](https://activesupport
 
 ## My Cats
 
-I raise two cats, Bonnie \& Clyde, with my wife. 
+I raise two cats, Bonnie \& Clyde, with my wife. Some snapshots of them can be found here: [Bonnie & Clyde](https://www.yaofan29597.com/fun/photo_bc/)
 
 ## Cooking
 
@@ -37,9 +37,7 @@ I love cooking. For me, cooking is never about following the recipes but an inte
 
 ## Photography
 
-I like to unveil different corners of the earth and take photos. Here are some magnificent views I would like to share.
-
-[Tibet](https://www.yaofan29597.com/fun/photo/)
+I like to unveil different corners of the earth and take photos. Here are some magnificent views I would like to share. [Tibet](https://www.yaofan29597.com/fun/photo_tibet/)
 
 <!--[Lake Baikal](https://www.yaofan29597.com/fun/photo/)-->
 

@@ -25,11 +25,18 @@ design:
 
 ## Tennis
 
-I'm a crazy tennis lover, and my level is about [NTRP 4.0](https://activesupport.secure.force.com/usta/articles/en_US/Article/League-NTRP-Rating-Information). I'm a member of the ABC tennis club in Charlottesville region and have always been practicing to horn my skills. Though I use the two-handed backhand, my favorite player is Roger Federer because I admire his swords-like forehand and enjoy finishing a point at the net. 
+I'm a crazy tennis lover, and my level is about [NTRP 4.0](https://activesupport.secure.force.com/usta/articles/en_US/Article/League-NTRP-Rating-Information). I'm a member of the ABC tennis club in Charlottesville region and have always been practicing to horn my skills. Though I use the two-handed backhand, my favorite player is Roger Federer because I admire his swords-like forehand and enjoy finishing a point at the net. Interesting and useful links
+
+[Do you know the rules](https://www.youtube.com/watch?v=6XZiv93vRJ8)
+
+[Hit a perfect serve](https://www.youtube.com/watch?v=6_eWZo60Ges)
+
 
 ## My Cats
 
-I raise two cats, Bonnie \& Clyde, with my wife. Some snapshots of them can be found here: [Bonnie & Clyde](https://www.yaofan29597.com/fun/photo_bc/)
+I raise two cats, Bonnie \& Clyde, with my wife. Some snapshots of them can be found here: 
+
+[Bonnie & Clyde](https://www.yaofan29597.com/fun/photo_bc/)
 
 ## Cooking
 
@@ -37,7 +44,9 @@ I love cooking. For me, cooking is never about following the recipes but an inte
 
 ## Photography
 
-I like to unveil different corners of the earth and take photos. Here are some magnificent views I would like to share. [Tibet](https://www.yaofan29597.com/fun/photo_tibet/)
+I like to unveil different corners of the earth and take photos. Here are some magnificent views I would like to share. 
+
+[Tibet](https://www.yaofan29597.com/fun/photo_tibet/)
 
 <!--[Lake Baikal](https://www.yaofan29597.com/fun/photo/)-->
 

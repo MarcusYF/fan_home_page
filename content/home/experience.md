@@ -7,16 +7,24 @@ experience:
     company_url: "https://engineering.virginia.edu/"
     company_logo: uva
     location: Charlottesville, US
-    date_start: "2019-09-01"
+    date_start: "2019-08-23"
     date_end: 
-    description: Ph.D. student in CS department
+    description: Ph.D. candidate in CS department
+  - title: Student Researcher
+    company: Google
+    company_url: "https://www.google.com/"
+    company_logo: google_icon
+    location: Mountain View, CA
+    date_start: "2022-05-23"
+    date_end: "2022-08-19"
+    description: On going experience...
   - title: Research Intern
     company: ByteDance (TikTok) AML Lab
     company_url: "https://chongw.github.io/"
     company_logo: tiktok_icon
-    location: Seattle, US
-    date_start: "2021-06-01"
-    date_end: "2021-08-31"
+    location: Seattle, WA (remote)
+    date_start: "2021-05-24"
+    date_end: "2021-08-20"
     description: |2-
         
         * Manager: Dr. [Chong Wang](https://chongw.github.io/), Dr. [Taiqing Wang](https://www.linkedin.com/in/taiqing-wang-ba462a48)

@@ -11,7 +11,7 @@ experience:
     date_end: 
     description: Ph.D. candidate in CS department
   - title: Student Researcher
-    company: Google
+    company: Google Research
     company_url: "https://www.google.com/"
     company_logo: google_icon
     location: Mountain View, CA

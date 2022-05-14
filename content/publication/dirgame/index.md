@@ -3,7 +3,7 @@ abstract: ""
 slides: dirgame
 url_pdf: https://arxiv.org/pdf/2111.05486.pdf
 publication_types:
-  - "3"
+  - "1"
 authors:
   - Jibang Wu
   - Haifeng Xu
@@ -12,11 +12,11 @@ author_notes:
   - Equal contribution
   - Equal contribution
   - Equal contribution
-publication: arXiv
+publication: COLT 2022
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: Under Review
+publication_short: ""
 url_source: https://arxiv.org/pdf/2111.05486
 url_video: ""
 title: "Multi-Agent Learning for Iterative Dominance Elimination: Formal

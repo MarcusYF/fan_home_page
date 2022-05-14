@@ -3,7 +3,7 @@ abstract: ""
 slides: learninguser
 url_pdf: https://arxiv.org/pdf/2202.01879.pdf
 publication_types:
-  - "3"
+  - "1"
 authors:
   - admin
   - Chuanhao Li
@@ -11,14 +11,14 @@ authors:
   - Hongning Wang
   - Haifeng Xu
 author_notes: []
-publication: arXiv
+publication: ICML 2022
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: Under Review
+publication_short: "*ICML* 2022"
 url_source: https://arxiv.org/pdf/2202.01879
 url_video: ""
-title: "Learning from a Learning User for Optimal Recommendations"
+title: Learning from a Learning User for Optimal Recommendations
 doi: ""
 featured: false
 tags: []

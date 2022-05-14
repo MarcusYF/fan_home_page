@@ -11,11 +11,11 @@ authors:
   - Hongning Wang
   - Haifeng Xu
 author_notes: []
-publication: ICML 2022
+publication: "*ICML*, 2022"
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: "*ICML* 2022"
+publication_short: "*ICML*, 2022"
 url_source: https://arxiv.org/pdf/2202.01879
 url_video: ""
 title: Learning from a Learning User for Optimal Recommendations

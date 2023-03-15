@@ -44,4 +44,4 @@ highlight_name: true
 ---
 I am a third year Ph.D. student in CS at [University of Virginia](https://engineering.virginia.edu/). My academic advisors are Prof. [Hongning Wang](http://www.cs.virginia.edu/~hw5x/) and Prof. [Haifeng Xu](https://www.haifeng-xu.com/). Prior to joining UVa, I worked as an algorithm engineer in [Alibaba Group](www.alibaba.com), building recommender systems for [Taobao](https://en.wikipedia.org/wiki/Taobao), the world's largest eCommerce platform. Before that, I obtained my Bachelor's and Master's degrees in computational mathematics from [Peking University](https://english.pku.edu.cn). My research interests include online learning, multi-agent learning, algorithmic game theory, and their applications in recommendation systems and beyond.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/my_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

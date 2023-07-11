@@ -10,14 +10,25 @@ experience:
     date_start: "2019-08-23"
     date_end: 
     description: Ph.D. candidate in CS department
+  - title: Visiting Student
+    company: University of Chicago
+    company_url: "https://cs.uchicago.edu/"
+    company_logo: uchi_icon
+    location: Chicago, IL
+    date_start: "2023-05-23"
+    date_end: "2023-09-14"
+    description: Multi-agent and economic modeling for online content market.
   - title: Student Researcher
     company: Google Research
     company_url: "https://www.google.com/"
     company_logo: google_icon
     location: Mountain View, CA
     date_start: "2022-05-23"
-    date_end: "2022-08-19"
-    description: On going experience...
+    date_end: "2022-09-19"
+    description: |2-
+        
+        * Manager: Dr. [Chih-wei Hsu](https://research.google/people/107258/), Dr. [Craig Boutilier](https://scholar.google.com/citations?hl=en&user=cXkm3rsAAAAJ)
+        * Bayesian preference elicitation in interactive recommender systems using Concept Activation Vectors.
   - title: Research Intern
     company: ByteDance (TikTok) AML Lab
     company_url: "https://chongw.github.io/"

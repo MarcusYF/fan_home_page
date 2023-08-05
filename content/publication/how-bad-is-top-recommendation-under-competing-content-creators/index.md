@@ -1,5 +1,8 @@
 ---
 title: How Bad is Top- Recommendation under Competing Content Creators?
+url_pdf: https://arxiv.org/abs/2302.01971
+url_source: https://arxiv.org/pdf/2302.01971.pdf
+url_video: https://icml.cc/virtual/2023/oral/25506
 publication_types:
   - "1"
 authors:

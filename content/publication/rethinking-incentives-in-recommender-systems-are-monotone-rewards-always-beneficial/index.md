@@ -3,6 +3,9 @@ title: "Rethinking Incentives in Recommender Systems: Are Monotone Rewards
   Always Beneficial?"
 publication_types:
   - "1"
+url_pdf: https://arxiv.org/pdf/2306.07893
+url_source: https://arxiv.org/pdf/2306.07893.pdf
+url_video: 
 authors:
   - admin
   - Chuanhao Li

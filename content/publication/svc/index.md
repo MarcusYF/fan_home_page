@@ -31,8 +31,7 @@ author_notes:
   - Equal contribution
   - Equal contribution
 publication: The Journal of Machine Learning Research (JMLR), International
-  Conference on Machine Learning (ICML), 2021 (<font color=red>long oral,
-  3%</font>)
+  Conference on Machine Learning (ICML), 2021 (<font color=red>oral, 3%</font>)
 summary: >-
   We establish a unified framework for strategic classification problems and
   introduce the notion of strategic VC-dimension (SVC) to capture its
@@ -42,7 +41,7 @@ summary: >-
 url_dataset: ""
 url_project: ""
 publication_short: "The Journal of Machine Learning Research (JMLR), Shorter
-  version at *ICML*, 2021 (<font color=red>long oral, 3%</font>) "
+  version at *ICML*, 2021 (<font color=red>oral, 3%</font>) "
 url_source: https://arxiv.org/abs/2012.03310
 url_video: https://icml.cc/virtual/2021/poster/9137
 title: PAC-Learning for Strategic Classification

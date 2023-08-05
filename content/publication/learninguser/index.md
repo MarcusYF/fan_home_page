@@ -30,7 +30,7 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: center
   preview_only: true
-  filename: ""
+  filename: raes_poster.png
 date: 2021-12-06T21:56:14.075Z
 url_slides: ""
 publishDate: 2021-11-01T00:00:00.000Z

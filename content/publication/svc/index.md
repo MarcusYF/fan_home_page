@@ -39,7 +39,7 @@ summary: >-
   strategic linear classification problem and fully characterize: (1) the statistical learnability of linear classifiers by pinning down its SVC; (2) it's computational tractability by pinning down the complexity of the empirical risk minimization problem. 
 url_dataset: ""
 url_project: ""
-publication_short: In *ICML*, 2021 (long oral, 3%)
+publication_short: In *ICML*, 2021 (<font color=red>long oral, 3%</font>)
 url_source: https://arxiv.org/abs/2012.03310
 url_video: https://icml.cc/virtual/2021/poster/9137
 title: PAC-Learning for Strategic Classification

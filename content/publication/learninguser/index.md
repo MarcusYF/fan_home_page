@@ -15,7 +15,9 @@ publication: "*ICML*, 2022"
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: In *ICML*, 2022
+publication_short: In *ICML*, 2022, Spotlight presentation (5 out of 38 accepted
+  papers) at the *ICML* 2023 Workshop on Interactive Learning with Implicit
+  Human Feedback
 url_source: https://arxiv.org/pdf/2202.01879
 url_video: ""
 title: Learning from a Learning User for Optimal Recommendations

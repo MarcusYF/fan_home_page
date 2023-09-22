@@ -15,8 +15,8 @@ publication: "*ICML*, 2022"
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: In *ICML*, 2022, also appear as a (<font
-  color=red>spotlight</font>)  presentation at the *ICML* 2023 Workshop on
+publication_short: In *ICML*, 2022, also appear as a <font
+  color=red>spotlight</font> presentation at the *ICML* 2023 Workshop on
   Interactive Learning with Implicit Human Feedback
 url_source: https://arxiv.org/pdf/2202.01879
 url_video: ""

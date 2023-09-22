@@ -3,9 +3,6 @@ title: "Rethinking Incentives in Recommender Systems: Are Monotone Rewards
   Always Beneficial?"
 publication_types:
   - "1"
-url_pdf: https://arxiv.org/pdf/2306.07893
-url_source: https://arxiv.org/pdf/2306.07893.pdf
-url_video: 
 authors:
   - admin
   - Chuanhao Li
@@ -15,8 +12,8 @@ authors:
   - Qifan Wang
   - Hongning Wang
   - Haifeng Xu
-publication: in submission
-publication_short: in submission
+publication: Neurips, 2023
+publication_short: Neurips, 2023
 abstract: "The past decade has witnessed the flourishing of a new profession as
   media content creators, who rely on revenue streams from online content
   recommendation platforms. The reward mechanism employed by these platforms
@@ -35,6 +32,9 @@ abstract: "The past decade has witnessed the flourishing of a new profession as
   allows the platform to directly optimize welfare within the feasible mechanism
   space even when the welfare metric is not explicitly defined."
 draft: false
+url_pdf: https://arxiv.org/pdf/2306.07893
+url_source: https://arxiv.org/pdf/2306.07893.pdf
+url_video: null
 featured: true
 image:
   filename: brm_poster_png.png

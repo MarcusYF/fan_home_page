@@ -13,7 +13,7 @@ publication: arXiv
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: "*AAAI-ML4OR*, 2022"
+publication_short: "*AAAI-ML4OR*"
 url_source: https://arxiv.org/pdf/2102.07210
 url_video: ""
 title: Reversible Action Design for Combinatorial Optimization with
@@ -28,7 +28,7 @@ image:
   focal_point: center
   preview_only: true
   filename: ""
-date: 2021-12-03T21:56:14.075Z
+date: 2022-12-03T21:56:14.075Z
 url_slides: ""
 publishDate: 2021-02-01T00:00:00.000Z
 url_poster: ""

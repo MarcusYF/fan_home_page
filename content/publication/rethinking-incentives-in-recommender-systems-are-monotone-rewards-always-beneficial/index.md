@@ -12,8 +12,8 @@ authors:
   - Qifan Wang
   - Hongning Wang
   - Haifeng Xu
-publication: "*Neurips*, 2023"
-publication_short: In *Neurips*, 2023
+publication: "*Neurips*"
+publication_short: In *Neurips*
 abstract: "The past decade has witnessed the flourishing of a new profession as
   media content creators, who rely on revenue streams from online content
   recommendation platforms. The reward mechanism employed by these platforms

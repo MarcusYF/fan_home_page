@@ -8,8 +8,8 @@ authors:
   - Hongning Wang
 author_notes: []
 doi: ""
-publication: "*ACM BuildSys*, 2023"
-publication_short: In *ACM BuildSys*, 2023
+publication: "*ACM BuildSys*"
+publication_short: In *ACM BuildSys*
 draft: false
 featured: false
 image:

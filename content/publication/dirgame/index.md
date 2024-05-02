@@ -12,7 +12,7 @@ author_notes:
   - Equal contribution
   - Equal contribution
   - Equal contribution
-publication: In *COLT*, 2022
+publication: In *COLT*
 summary: ""
 url_dataset: ""
 url_project: ""
@@ -31,7 +31,7 @@ image:
   focal_point: center
   preview_only: true
   filename: ""
-date: 2021-12-06T21:56:14.075Z
+date: 2022-12-06T21:56:14.075Z
 url_slides: ""
 publishDate: 2021-11-01T00:00:00.000Z
 url_poster: ""

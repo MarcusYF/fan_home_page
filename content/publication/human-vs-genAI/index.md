@@ -2,7 +2,7 @@
 title: Human vs. Generative AI in Content Creation Competition: Symbiosis or Conflict?
 url_pdf: https://arxiv.org/abs/2402.15467
 url_source: https://arxiv.org/abs/2402.15467.pdf
-url_video: 
+url_video: https://icml.cc/virtual/2023/oral/25506
 publication_types:
   - "1"
 authors:
@@ -11,17 +11,34 @@ authors:
   - Denis Nekipelov
   - Hongning Wang
   - Haifeng Xu
-publication: "*ICML*, 2024"
-publication_short: "*ICML*, 2024"
-abstract: "The advent of generative AI (GenAI) technology produces transformative impact on the content creation landscape, offering alternative approaches to produce diverse, high-quality content across media, thereby reshaping online ecosystems but also raising concerns about market over-saturation and the potential marginalization of human creativity. Our work introduces a competition model generalized from the Tullock contest to analyze the tension between human creators and GenAI. Our theory and simulations suggest that despite challenges, a stable equilibrium between human and AI-generated content is possible. Our work contributes to understanding the competitive dynamics in the content creation industry, offering insights into the future interplay between human creativity and technological advancements in GenAI."
+publication: "*ICML*, 2024 "
+publication_short: "*ICML*, 2024 "
+abstract: "Content creators compete for exposure on recommendation platforms,
+  and such strategic behavior leads to a dynamic shift over the content
+  distribution. However, how the creators' competition impacts user welfare and
+  how the relevance-driven recommendation influences the dynamics in the long
+  run are still largely unknown. This work provides theoretical insights into
+  these research questions. We model the creators' competition under the
+  assumptions that: 1) the platform employs an innocuous top-K recommendation
+  policy; 2) user decisions follow the Random Utility model; 3) content creators
+  compete for user engagement and, without knowing their utility function in
+  hindsight, apply arbitrary no-regret learning algorithms to update their
+  strategies. We study the user welfare guarantee through the lens of Price of
+  Anarchy and show that the fraction of user welfare loss due to creator
+  competition is always upper bounded by a small constant depending on K and
+  randomness in user decisions; we also prove the tightness of this bound. Our
+  result discloses an intrinsic merit of the myopic approach to the
+  recommendation, i.e., relevance-driven matching performs reasonably well in
+  the long run, as long as users' decisions involve randomness and the platform
+  provides reasonably many alternatives to its users."
 draft: false
 featured: true
 categories:
-  - human-vs-genAI
+  - c3
 projects:
-  - human-vs-genAI
+  - c3
 image:
-  filename: 
+  filename: c3_poster_png.png
   focal_point: Smart
   preview_only: false
 date: 2023-08-05T05:35:12.761Z

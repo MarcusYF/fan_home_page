@@ -16,8 +16,19 @@ experience:
     company_logo: uchi_icon
     location: Chicago, IL
     date_start: "2023-05-23"
-    date_end: "2023-09-14"
+    date_end: 
     description: Multi-agent and economic modeling for online content market.
+  - title: Student Researcher
+    company: Meta Research
+    company_url: "https://about.meta.com/"
+    company_logo: meta_icon
+    location: Menlo Park, CA
+    date_start: "2023-12-04"
+    date_end: "2024-07-12"
+    description: |2-
+        
+        * Host: Dr. [Qifan Wang](https://scholar.google.com/citations?user=LrSyLosAAAAJ&hl=en)
+        * Deploy mechanism design solutions for improving user engagement on Instagram Reels.
   - title: Student Researcher
     company: Google Research
     company_url: "https://www.google.com/"
@@ -39,7 +50,7 @@ experience:
     description: |2-
         
         * Manager: Dr. [Chong Wang](https://chongw.github.io/), Dr. [Taiqing Wang](https://www.linkedin.com/in/taiqing-wang-ba462a48)
-        * DeployingEnhance the recommendation diversity and mitigate the echo chamber effect via collaborative Thompson sampling approach and gradient-based Determinantal Point Processes.
+        * Enhance the recommendation diversity and mitigate the echo chamber effect via collaborative Thompson sampling approach and gradient-based Determinantal Point Processes.
   - title: Algorithm Engineer
     company: Alibaba Group, Taobao Recommendation Team
     company_url: "www.alibaba.com"

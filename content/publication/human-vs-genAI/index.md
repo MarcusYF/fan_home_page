@@ -2,7 +2,7 @@
 title: "Human vs Generative AI in Content Creation Competition: Symbiosis or Conflict?"
 url_pdf: https://arxiv.org/abs/2402.15467
 url_source: https://arxiv.org/abs/2402.15467.pdf
-url_video: https://icml.cc/virtual/2023/oral/25506
+url_video: 
 publication_types:
   - "1"
 authors:

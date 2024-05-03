@@ -15,11 +15,11 @@ authors:
   - Brad Campbell
   - Mitchel Rosen
 author_notes: []
-publication: IEEE MASS
+publication: "*IEEE MASS, 2020*"
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: In *IEEE MASS*
+publication_short: "*IEEE MASS, 2020*"
 url_source: https://ieeexplore.ieee.org/abstract/document/9356025
 url_video: ""
 title: Deep Learning Based Prediction Towards Designing A Smart Building

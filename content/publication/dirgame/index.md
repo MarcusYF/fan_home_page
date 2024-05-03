@@ -12,7 +12,8 @@ author_notes:
   - Equal contribution
   - Equal contribution
   - Equal contribution
-publication: In *COLT*
+publication: "*COLT, 2022*"
+publication_short: "*COLT, 2022*"
 summary: ""
 url_dataset: ""
 url_project: ""

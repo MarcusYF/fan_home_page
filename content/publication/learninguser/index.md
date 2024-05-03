@@ -11,12 +11,12 @@ authors:
   - Hongning Wang
   - Haifeng Xu
 author_notes: []
-publication: "*ICML*, 2022"
+publication: "*ICML, 2022*"
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: In *ICML*, 2022, also appear as a <font
-  color=red>spotlight</font> presentation at the *ICML* 2023 Workshop on
+publication_short: *ICML, 2022*, also appear as a <font
+  color=red>spotlight</font> presentation at the *ICML, 2023* Workshop on
   Interactive Learning with Implicit Human Feedback
 url_source: https://arxiv.org/pdf/2202.01879
 url_video: ""
@@ -31,7 +31,7 @@ image:
   focal_point: center
   preview_only: true
   filename: raes_poster.png
-date: 2021-12-06T21:56:14.075Z
+date: 2022-12-06T21:56:14.075Z
 url_slides: ""
 publishDate: 2021-11-01T00:00:00.000Z
 url_poster: ""

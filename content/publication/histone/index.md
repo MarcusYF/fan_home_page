@@ -13,7 +13,8 @@ publication: Science China Physics, Mechanics & Astronomy
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: In *SCIENCE CHINA Physics*
+publication: "*SCIENCE CHINA Physics*"
+publication_short: "*SCIENCE CHINA Physics*"
 url_source: https://link.springer.com/article/10.1007/s11433-016-0359-1
 url_video: ""
 title: Mean-field Study of a Propagation-turnover Lattice Model for the Dynamics

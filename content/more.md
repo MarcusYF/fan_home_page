@@ -31,6 +31,13 @@ I'm a crazy tennis lover, and my level is about [NTRP 4.0](https://activesupport
 
 [Hit a perfect serve](https://www.youtube.com/watch?v=6_eWZo60Ges)
 
+## Singing
+I am an amateur singer who is dedicated to continuously improving my vocal skills. Inspired by my favorite artist, Jay Chou, I strive to capture the emotion and artistry in his music. Over the years, I have developed a collection of my own representative works, showcasing my progress and passion for singing.
+
+[搁浅](https://kg.qq.com/node/play?s=91TKEo9LxXw1U9Bh&shareuid=6a9995822624308e35&abtype=13&shareDescABType=1&topsource=&chain_share_id=KS88_v18mo_SRGDt8bG6rRM7f7n4z7tLX-W9chk9HhM&pageId=details_of_creations)
+
+
+
 
 ## My Cats
 

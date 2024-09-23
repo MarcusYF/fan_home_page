@@ -19,7 +19,7 @@ content:
 design:
   view: 4
 ---
-{{% callout note %}}Quickly discover relevant content by [filtering publications](./publication/).{{% /callout %}}
+<!--{{% callout note %}}Quickly discover relevant content by [filtering publications](./publication/).{{% /callout %}}-->
 <!--\* indicates equal author contribution.
 
 <font size="5"> 2022</font>

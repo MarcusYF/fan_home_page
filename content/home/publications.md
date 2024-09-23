@@ -19,6 +19,8 @@ content:
 design:
   view: 4
 ---
+{{% callout note %}} *i indicates equal author contribution.{{% /callout %}}
+
 <!--{{% callout note %}}Quickly discover relevant content by [filtering publications](./publication/).{{% /callout %}}-->
 <!--\* indicates equal author contribution.
 

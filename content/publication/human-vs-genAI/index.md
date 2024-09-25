@@ -1,5 +1,5 @@
 ---
-title: "Human vs Generative AI in Content Creation Competition: Symbiosis or Conflict?"
+title: "<br />Human vs Generative AI in Content Creation Competition: Symbiosis or Conflict?"
 url_pdf: https://arxiv.org/abs/2402.15467
 url_source: https://arxiv.org/abs/2402.15467.pdf
 url_video: 

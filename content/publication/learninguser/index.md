@@ -15,10 +15,10 @@ publication: "*ICML, 2022*"
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: "*ICML, 2022*, selected as <font color=red>spotlight presentation</font> at *ICML, 2023*, Workshop on Interactive Learning with Implicit Human Feedback"
+publication_short: "<br />*ICML, 2022*, selected as <font color=red>spotlight presentation</font> at *ICML, 2023*, Workshop on Interactive Learning with Implicit Human Feedback"
 url_source: https://arxiv.org/pdf/2202.01879
 url_video: ""
-title: Learning from a Learning User for Optimal Recommendations
+title: "<br />Learning from a Learning User for Optimal Recommendations"
 doi: ""
 featured: false
 tags: []

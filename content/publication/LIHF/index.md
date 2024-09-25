@@ -14,10 +14,10 @@ publication: "*working paper*"
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: "*working paper*"
+publication_short: "<br />*working paper*"
 url_source: https://www.haifeng-xu.com/sigma/files/LIHF.pdf
 url_video: ""
-title: "Learning from Imperfect Human Feedback: a Tale from Corruption-Robust Dueling"
+title: "<br />Learning from Imperfect Human Feedback: a Tale from Corruption-Robust Dueling"
 doi: ""
 featured: false
 tags: []

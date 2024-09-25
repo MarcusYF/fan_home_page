@@ -44,7 +44,7 @@ summary: "We propose a new perspective in studying the sequential interactions
 url_dataset: ""
 url_project: ""
 publication: "*AAAI, 2022*"
-publication_short: "*AAAI, 2022*"
+publication_short: "<br />*AAAI, 2022*"
 url_source: https://arxiv.org/abs/2110.03068
 url_video: ""
 title: Learning the Optimal Recommendation from Explorative Users

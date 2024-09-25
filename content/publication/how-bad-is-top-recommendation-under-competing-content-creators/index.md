@@ -12,7 +12,7 @@ authors:
   - Hongning Wang
   - Haifeng Xu
 publication: "*ICML, 2023* (<font color=red>oral presentation, 2.4%</font>)"
-publication_short: "*ICML, 2023* (<font color=red>oral presentation, 2.4%</font>)"
+publication_short: "<br />*ICML, 2023* (<font color=red>oral presentation, 2.4%</font>)"
 abstract: "Content creators compete for exposure on recommendation platforms,
   and such strategic behavior leads to a dynamic shift over the content
   distribution. However, how the creators' competition impacts user welfare and

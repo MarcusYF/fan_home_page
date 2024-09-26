@@ -13,11 +13,10 @@ author_notes:
   - Equal contribution
   - Equal contribution
 publication: "*COLT, 2022*"
-publication_short: "<br />*COLTT, 2022* (<font color=red>under major revision for JMLR</font>)"
+publication_short: "<br />*COLT, 2022* (<font color=red>under major revision for JMLR</font>)"
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: ""
 url_source: https://arxiv.org/pdf/2111.05486
 url_video: ""
 title: "Multi-Agent Learning for Iterative Dominance Elimination: Formal Barriers and New Algorithms"

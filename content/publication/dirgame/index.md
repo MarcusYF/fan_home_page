@@ -20,8 +20,7 @@ url_project: ""
 publication_short: ""
 url_source: https://arxiv.org/pdf/2111.05486
 url_video: ""
-title: "Multi-Agent Learning for Iterative Dominance Elimination: Formal
-  Barriers and New Algorithms"
+title: "Multi-Agent Learning for Iterative Dominance Elimination: Formal Barriers and New Algorithms"
 doi: ""
 featured: false
 tags: []

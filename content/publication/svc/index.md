@@ -35,9 +35,7 @@ publication: "*The Journal of Machine Learning Research* (<font color=red>JMLR</
 summary: >-
   We establish a unified framework for strategic classification problems and
   introduce the notion of strategic VC-dimension (SVC) to capture its
-  PAC-learnability. We instantiate our framework for the fundamental
-
-  strategic linear classification problem and fully characterize: (1) the statistical learnability of linear classifiers by pinning down its SVC; (2) it's computational tractability by pinning down the complexity of the empirical risk minimization problem. 
+  PAC-learnability. We instantiate our framework for the fundamental strategic linear classification problem and fully characterize: (1) the statistical learnability of linear classifiers by pinning down its SVC; (2) it's computational tractability by pinning down the complexity of the empirical risk minimization problem. 
 url_dataset: ""
 url_project: ""
 publication_short: "<br />*The Journal of Machine Learning Research (JMLR)*, shorter version at *ICML, 2021* (<font color=red>oral presentation, 3%</font>) "

@@ -6,7 +6,7 @@ weight: 40
 title: Working Papers
 subtitle: ""
 content:
-  page_type: publication
+  page_type: "working paper"
   count: 0
   offset: 0
   order: desc

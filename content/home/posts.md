@@ -3,7 +3,7 @@ widget: pages
 widget_id: Recent-posts
 headless: true
 weight: 90
-title: Recent Posts
+title: Featured Publications
 subtitle: null
 content:
   page_type: post

@@ -2,8 +2,7 @@
 title: Fan Yao
 superuser: true
 role: Ph.D. student at CS@UVa
-bio: A theory-obsessed pragmatist, a crazy tennis player, and an underachieving
-  daydreamer.
+bio: A theory-obsessed pragmatist, a crazy tennis player, and an underachieving daydreamer.
 interests:
   - Online learning
   - Multi-agent learning

@@ -17,7 +17,7 @@ content:
     author: ""
     exclude_featured: false
 design:
-  view: 4
+  view: 2
 ---
 {{% callout note %}} indicates equal contribution, authors in alphabetical order. {{% /callout %}}
 

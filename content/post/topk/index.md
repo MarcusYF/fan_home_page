@@ -1,5 +1,5 @@
 ---
-title: How Bad is Top- Recommendation under Competing Content Creators?
+title: How Bad is Top-K Recommendation under Competing Content Creators?
 subtitle: "Fan Yao, Chuanhao Li, Denis Nekepalov, Hongning Wang, Haifeng Xu"
 date: 2022-12-13T00:00:00Z
 summary: We measure the user welfare loss under the content supply equilibria induced by relevance-driven recommender systems.

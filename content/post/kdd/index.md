@@ -2,7 +2,7 @@
 title: User Welfare Optimization in Recommender Systems with Competing Content Creators
 subtitle: "Fan Yao, Yiming Liao, Mingzhe Wu, Chuanhao Li, Yan Zhu, James Yang, Jingzhou Liu, Qifan Wang, Haifeng Xu, Hongning Wang"
 date: 2023-03-13T00:00:00Z
-summary: "Our mechanism is deployed on Instagram Reels and the A/B test showed promising results."
+summary: "Our mechanism is deployed on Instagram Reels and the A/B test showed promising results!"
 draft: false
 featured: false
 authors:

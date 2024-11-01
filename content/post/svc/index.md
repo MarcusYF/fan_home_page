@@ -25,9 +25,7 @@ image:
 
 
 
-## Poster
-
-![po](https://bkt-fig-65175.oss-us-east-1.aliyuncs.com/research/poster/poster_svc.jpeg)
+## Abstract
 
 The study of strategic or adversarial manipulation of testing data to
   fool a classifier has attracted much recent attention. Most previous works

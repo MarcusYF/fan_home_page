@@ -11,11 +11,11 @@ lastmod: 2020-12-13T00:00:00Z
 tags:
   - Academic
 categories:
-  - Demo
+  - poster
   - ""
 projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://bkt-fig-65175.oss-us-east-1.aliyuncs.com/research/poster/poster_svc.jpeg)"
+  caption: "Image credit: (https://bkt-fig-65175.oss-us-east-1.aliyuncs.com/research/poster/poster_svc.jpeg)"
   focal_point: ""
   placement: 2
   preview_only: false

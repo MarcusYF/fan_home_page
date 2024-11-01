@@ -1,8 +1,8 @@
 ---
-title: "Rethinking Incentives in Recommender Systems: Are Monotone Rewards Always Beneficial?"
-subtitle: "Fan Yao, Chuanhao Li, Karthik Abinav Sankararaman, Yiming Liao, Yan Zhu, Qifan Wang, Hongning Wang, Haifeng Xu"
+title: User Welfare Optimization in Recommender Systems with Competing Content Creators
+subtitle: "Fan Yao, Yiming Liao, Mingzhe Wu, Chuanhao Li, Yan Zhu, James Yang, Jingzhou Liu, Qifan Wang, Haifeng Xu, Hongning Wang"
 date: 2023-02-13T00:00:00Z
-summary: We establish a social welfare maximization impossibility theorem in content creation competition game and propose theoretically optimal mechanisms for incentivizing creators in online content platforms.
+summary: "Our mechanism is deployed on Instagram Reels and the A/B test showed promising results."
 draft: false
 featured: false
 authors:

@@ -2,7 +2,7 @@
 title: Learning from a Learning User for Optimal Recommendations
 subtitle: "Fan Yao, Chuanhao Li, Denis Nekepalov, Hongning Wang, Haifeng Xu"
 date: 2021-12-13T00:00:00Z
-summary: We formalize a model to capture the ``learning user'' effect in recommendation systems and design learning algorithm to tackle the challenges brought by the non-stationary feedback from a learning user.
+summary: We formalize a model to capture the ''learning user'' effect in recommendation systems and design learning algorithm to tackle the challenges brought by the non-stationary feedback from a learning user.
 draft: false
 featured: false
 authors:

@@ -15,13 +15,19 @@ categories:
   - ""
 projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
+  caption: "Image credit: [**Unsplash**](https://bkt-fig-65175.oss-us-east-1.aliyuncs.com/research/poster/poster_svc.jpeg)"
   focal_point: ""
   placement: 2
   preview_only: false
 ---
 
-## Overview
+
+
+
+
+## Poster
+
+![po](https://bkt-fig-65175.oss-us-east-1.aliyuncs.com/research/poster/poster_svc.jpeg)
 
 The study of strategic or adversarial manipulation of testing data to
   fool a classifier has attracted much recent attention. Most previous works

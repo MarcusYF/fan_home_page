@@ -12,7 +12,7 @@ authors:
   - Hongning Wang
   - Haifeng Xu
 publication: "*ICML*, 2024"
-publication_short: "<br />*ICML, 2024*, also oral presented at Econometric Society Interdisciplinary Frontiers (ESIF) conference on Economics and AI+ML."
+publication_short: "<br />*ICML, 2024* <br /> Oral presented at Econometric Society Interdisciplinary Frontiers (ESIF) conference on Economics and AI+ML"
 abstract: "The advent of generative AI (GenAI) technology produces transformative impact on the content creation landscape, offering alternative approaches to produce diverse, high-quality content across media, thereby reshaping online ecosystems but also raising concerns about market over-saturation and the potential marginalization of human creativity. Our work introduces a competition model generalized from the Tullock contest to analyze the tension between human creators and GenAI. Our theory and simulations suggest that despite challenges, a stable equilibrium between human and AI-generated content is possible. Our work contributes to understanding the competitive dynamics in the content creation industry, offering insights into the future interplay between human creativity and technological advancements in GenAI."
 draft: false
 featured: true

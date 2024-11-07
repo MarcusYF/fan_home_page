@@ -13,7 +13,7 @@ author_notes:
   - Equal contribution
   - Equal contribution
 publication: "*COLT, 2022*"
-publication_short: "<br />*COLT, 2022* (<font color=red>extended version under major revision for JMLR</font>)"
+publication_short: "<br />*COLT, 2022* <br />Extended version under major revision at JMLR"
 summary: ""
 url_dataset: ""
 url_project: ""

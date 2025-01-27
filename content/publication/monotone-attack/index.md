@@ -1,7 +1,7 @@
 ---
 abstract: ""
 slides: monotone-attack
-url_pdf: 
+url_pdf: "https://openreview.net/forum?id=46xYl55hdc"
 publication_types:
   - "1"
 authors:
@@ -12,12 +12,12 @@ authors:
 author_notes:
   - Equal contribution
   - Equal contribution
-publication: "*working paper*"
+publication: "*ICLR, 2025*"
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: "<br />*working paper*"
-url_source: ""
+publication_short: "<br />*ICLR, 2025*"
+url_source: "https://openreview.net/forum?id=46xYl55hdc"
 url_video: ""
 title: "Single-Agent Poisoning Attacks Suffice to Ruin Multi-Agent Learning"
 doi: ""

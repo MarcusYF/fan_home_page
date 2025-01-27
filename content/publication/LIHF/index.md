@@ -1,7 +1,7 @@
 ---
 abstract: ""
 slides: LIHF
-url_pdf: https://www.haifeng-xu.com/sigma/files/LIHF.pdf
+url_pdf: https://arxiv.org/abs/2405.11204
 publication_types:
   - "1"
 authors:
@@ -10,12 +10,12 @@ authors:
   - Xuefeng Liu
   - Haifeng Xu
 author_notes: []
-publication: "*working paper*"
+publication: "*ICLR, 2025*"
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: "<br />*working paper*"
-url_source: https://www.haifeng-xu.com/sigma/files/LIHF.pdf
+publication_short: "<br />*ICLR, 2025*"
+url_source: https://arxiv.org/abs/2405.11204
 url_video: ""
 title: "Learning from Imperfect Human Feedback: a Tale from Corruption-Robust Dueling"
 doi: ""

@@ -1,13 +1,13 @@
 ---
 title: Fan Yao
 superuser: true
-role: Ph.D. student at CS@UVa
+role: Ph.D student at CS@UVa
 bio: A theory-obsessed pragmatist, a crazy tennis player, and an underachieving daydreamer.
 interests:
-  - Online learning
-  - Multi-agent learning
+  - Social aspects of AI
+  - Multi-agent modeling
   - Algorithmic game theory
-  - Information Retrieval
+  - Online learning
 social:
   - icon: envelope
     icon_pack: fas
@@ -41,6 +41,6 @@ education:
 email: "fy4bc[at]virginia.edu"
 highlight_name: true
 ---
-I am a final year Ph.D. student in CS at [University of Virginia](https://engineering.virginia.edu/) and I will be on *academia job market* this Fall! My advisors are Prof. [Haifeng Xu](https://www.haifeng-xu.com/) (now at University of Chicago) and Prof. [Hongning Wang](http://www.cs.virginia.edu/~hw5x/) (now at Tsinghua University). Prior to my Ph.D. journey, I worked as an algorithm engineer in [Alibaba Group](www.alibaba.com), building recommender systems for [Taobao](https://en.wikipedia.org/wiki/Taobao), the world's largest eCommerce platform. Before that, I obtained my Bachelor's and Master's degrees in computational mathematics from [Peking University](https://english.pku.edu.cn). My research interests include algorithmic game theory, machine learning, and their applications in recommendation ecosystems and online content markets.
+I am a final-year Ph.D candidate in CS at [UVa](https://engineering.virginia.edu/) and will soon be joining the [Department of Statistics & Operations Research at UNC Chapel Hill] (https://stor.unc.edu/) as a tenure-track assistant professor. My advisors are Prof. [Haifeng Xu](https://www.haifeng-xu.com/) and Prof. [Hongning Wang](http://www.cs.virginia.edu/~hw5x/). Before my Ph.D journey, I worked at [Alibaba](www.alibaba.com), where I built recommender systems for [Taobao](https://en.wikipedia.org/wiki/Taobao), the world's largest e-commerce platform. Prior to that, I obtained my Bachelor's and Master's degrees in computational mathematics from [Peking University](https://english.pku.edu.cn). My current research interest lies in modeling human-AI interactions, with the goal of understanding their societal implications and designing interventions that promote social good. If you are interested in collaborating, feel free to drop an email!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/my_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

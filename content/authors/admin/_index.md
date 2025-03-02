@@ -1,7 +1,7 @@
 ---
 title: Fan Yao
 superuser: true
-role: Ph.D student at CS@UVa
+role: PhD student at CS@UVa
 bio: A theory-obsessed pragmatist, a crazy tennis player, and an underachieving daydreamer.
 interests:
   - Social aspects of AI
@@ -41,7 +41,7 @@ education:
 email: "fy4bc[at]virginia.edu"
 highlight_name: true
 ---
-I am a final-year Ph.D candidate in [CS at UVa](https://engineering.virginia.edu/department/computer-science) and will be joining [STOR at UNC](https://stor.unc.edu/) as a tenure-track assistant professor. My advisors are Prof. [Haifeng Xu](https://www.haifeng-xu.com/) and Prof. [Hongning Wang](http://www.cs.virginia.edu/~hw5x/). Currently I'm interested in modeling human-AI interactions, with the goal of understanding their societal implications and designing interventions that promote social good. If you are interested in collaboration, feel free to drop an email!
+I am a final-year PhD candidate in [CS at UVa](https://engineering.virginia.edu/department/computer-science) and will be joining [STOR at UNC](https://stor.unc.edu/) as a tenure-track assistant professor. My advisors are Prof. [Haifeng Xu](https://www.haifeng-xu.com/) and Prof. [Hongning Wang](http://www.cs.virginia.edu/~hw5x/). Currently I'm interested in modeling human-AI interactions, with the goal of understanding their societal implications and designing interventions that promote social good. If you are interested in collaboration, feel free to drop an email!
 
 <!--Before my Ph.D journey, I worked at [Alibaba](www.alibaba.com), where I built recommender systems for [Taobao](https://en.wikipedia.org/wiki/Taobao), the world's largest e-commerce platform. Prior to that, I obtained my Bachelor's and Master's degrees in computational mathematics from [Peking University](https://english.pku.edu.cn). -->
 

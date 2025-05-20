@@ -25,7 +25,7 @@ design:
 
 ## Tennis
 
-I'm a crazy tennis lover, and my level is about [NTRP 4.0](https://activesupport.secure.force.com/usta/articles/en_US/Article/League-NTRP-Rating-Information). I'm a member of the ABC tennis club in Charlottesville region and have always been practicing to horn my skills. Though I use the two-handed backhand, my favorite player is Roger Federer because I admire his swords-like forehand and enjoy finishing a point at the net. Interesting and useful links
+I'm a crazy tennis lover and I play competitive UTR matches with an official rating about [UTR 5.3](https://app.utrsports.net/profiles/4288689). Interesting and useful links
 
 [Do you know the rules](https://www.youtube.com/watch?v=6XZiv93vRJ8)
 

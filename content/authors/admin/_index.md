@@ -38,8 +38,6 @@ education:
 email: "fy4bc[at]virginia.edu"
 highlight_name: true
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=gcQMS6t3MsFfTQw1sJT1hJ8vwGFjYI10OUeSREbbdoE&cl=ffffff&w=a"></script>
-
 ---
 I am a final-year PhD candidate in [CS at UVa](https://engineering.virginia.edu/department/computer-science) and will be joining [STOR at UNC](https://stor.unc.edu/) as a tenure-track assistant professor in Fall 2025. My advisors are Prof. [Haifeng Xu](https://www.haifeng-xu.com/) and Prof. [Hongning Wang](http://www.cs.virginia.edu/~hw5x/). Currently I'm interested in modeling human-AI interactions, with the goal of understanding their societal implications and designing interventions that promote social good. If you are interested in collaboration, feel free to drop an email!
 

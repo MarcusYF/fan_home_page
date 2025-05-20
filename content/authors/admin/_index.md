@@ -45,6 +45,6 @@ I am a final-year PhD candidate in [CS at UVa](https://engineering.virginia.edu/
 
 <!--Before my Ph.D journey, I worked at [Alibaba](www.alibaba.com), where I built recommender systems for [Taobao](https://en.wikipedia.org/wiki/Taobao), the world's largest e-commerce platform. Prior to that, I obtained my Bachelor's and Master's degrees in computational mathematics from [Peking University](https://english.pku.edu.cn). -->
 
-
-
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/my_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=gcQMS6t3MsFfTQw1sJT1hJ8vwGFjYI10OUeSREbbdoE&cl=ffffff&w=a"></script>

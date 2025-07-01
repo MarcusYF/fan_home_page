@@ -39,7 +39,9 @@ email: "fy4bc[at]virginia.edu"
 highlight_name: true
 
 ---
-I am a final-year PhD candidate in [CS at UVa](https://engineering.virginia.edu/department/computer-science) and will be joining [STOR at UNC](https://stor.unc.edu/) as a tenure-track assistant professor in Fall 2025. My advisors are Prof. [Haifeng Xu](https://www.haifeng-xu.com/) and Prof. [Hongning Wang](http://www.cs.virginia.edu/~hw5x/). Currently I'm interested in modeling human-AI interactions, with the goal of understanding their societal implications and designing interventions that promote social good. If you are interested in collaboration, feel free to drop an email!
+I am an assistant professor in the [Department of Statistics and Operations Research](https://stor.unc.edu/) at UNC Chapel Hill. I received my PhD in [Computer Science at the University of Virginia](https://engineering.virginia.edu/department/computer-science), advised by Prof. [Haifeng Xu](https://www.haifeng-xu.com/) and Prof. [Hongning Wang](http://www.cs.virginia.edu/~hw5x/). My current research focuses on modeling human–AI interactions, with the aim of understanding their broader societal impacts and designing interventions that foster social good. I use mathematical tools including statistical learning theory, algorithmic game theory, online learning, and optimization.
+
+I am seeking self-motivated students with strong mathemetical foundations and Python programming skills to work with me. Students from both UNC and other institutions are welcome. If you are interested in this opportunity, please contact me directly via email expressing your research interests with your CV.
 
 <!--Before my Ph.D journey, I worked at [Alibaba](www.alibaba.com), where I built recommender systems for [Taobao](https://en.wikipedia.org/wiki/Taobao), the world's largest e-commerce platform. Prior to that, I obtained my Bachelor's and Master's degrees in computational mathematics from [Peking University](https://english.pku.edu.cn). -->
 

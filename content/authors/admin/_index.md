@@ -1,7 +1,7 @@
 ---
 title: Fan Yao
 superuser: true
-role: PhD student at CS@UVa
+role: Assistant Professor at STOR@UNC
 bio: A theory-obsessed pragmatist, a crazy tennis player, and an underachieving daydreamer.
 interests:
   - Social aspects of AI

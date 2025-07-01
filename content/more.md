@@ -25,7 +25,7 @@ design:
 
 ## Tennis
 
-I'm a crazy tennis lover and I play competitive UTR matches with an official rating about [UTR 5.3](https://app.utrsports.net/profiles/4288689). Interesting and useful links
+I'm a crazy tennis lover and I play competitive UTR matches with an official rating about [UTR 5.4](https://app.utrsports.net/profiles/4288689). Interesting and useful links
 
 [Do you know the rules](https://www.youtube.com/watch?v=6XZiv93vRJ8)
 

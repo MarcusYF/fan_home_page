@@ -25,8 +25,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: University of Virginia
-    url: engineering.virginia.edu
+  - name: The University of North Carolina at Chapel Hill
+    url: https://www.unc.edu/
 education:
   courses:
     - course: Ph.D. in Computer Science

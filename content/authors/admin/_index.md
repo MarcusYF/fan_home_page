@@ -23,10 +23,10 @@ social:
     link: https://github.com/MarcusYF
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/fan-yao-028540241/
 organizations:
   - name: The University of North Carolina at Chapel Hill
-    url: https://www.unc.edu/
+    url: https://stor.unc.edu/
 education:
   courses:
     - course: Ph.D. in Computer Science
@@ -35,7 +35,7 @@ education:
     - course: Bsc./MSc. in Computational Mathematics
       institution: Peking University
       year: 2016
-email: "fy4bc[at]virginia.edu"
+email: "fanyao[at]unc.edu"
 highlight_name: true
 
 ---
